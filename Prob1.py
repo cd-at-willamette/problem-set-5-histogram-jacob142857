@@ -26,3 +26,4 @@ print(hist)
 #print_histogram(hist) # uncomment to test
 #graph_histogram(hist, 400, 400) # uncomment to test
 
+print('hello')
